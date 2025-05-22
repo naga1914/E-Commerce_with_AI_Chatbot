@@ -1,3 +1,5 @@
+# AI-Powered E-commerce Chatbot with Voice Interaction & Smart Shopping Assistant
+
 AI-Powered E-commerce Chatbot with Voice & Smart Shopping Assistant
 This AI-powered chatbot makes online shopping easier, smarter, and more fun. Built with the MERN stack and Gemini API, it understands what you say—via text or voice—then speaks back naturally. It compares products across popular sites like Amazon, Flipkart, and Meesho, summarizes reviews, explains product quality simply, and helps you find the best deals, all in your preferred language and tone.
 
